@@ -2,7 +2,7 @@
 
 Este repositório contém dois exercícios em Java:
 
-#🔹 Exercício 1 – Ordenação
+# Exercício 1 – Ordenação
 
 Implementa os algoritmos:
 
@@ -12,7 +12,7 @@ Selection Sort (crescente e decrescente)
 
 Insertion Sort (crescente e decrescente)
 
-#🔹 Exercício 2 – Cadastro de Funcionários
+# Exercício 2 – Cadastro de Funcionários
 
 Permite cadastrar 5 funcionários (nome e salário) e exibe:
 
